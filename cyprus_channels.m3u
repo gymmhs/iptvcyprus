@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CablenetSports1.cy" tvg-name="CY: CABLENET SPORT 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3024.jpg?ver=62545" group-title="CY| CYTAVISION VIP",CY: CABLENET SPORT 1 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842676
+
+#EXTINF:-1 tvg-id="CablenetSports2.cy" tvg-name="CY: CABLENET SPORT 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3024.jpg?ver=62545" group-title="CY| CYTAVISION VIP",CY: CABLENET SPORT 2 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842675
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CABLENET SPORT 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3024.jpg?ver=62545" group-title="CY| CYTAVISION VIP",CY: CABLENET SPORT 3 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842674
+
+#EXTINF:-1 tvg-id="CytavisionSports1.cy" tvg-name="CY: CYTAVISION SPORT 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 1 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842684
+
+#EXTINF:-1 tvg-id="CytavisionSports2.cy" tvg-name="CY: CYTAVISION SPORT 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 2 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842683
+
+#EXTINF:-1 tvg-id="CytavisionSports3.cy" tvg-name="CY: CYTAVISION SPORT 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 3 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842682
+
+#EXTINF:-1 tvg-id="CytavisionSports4.cy" tvg-name="CY: CYTAVISION SPORT 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 4 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842681
+
+#EXTINF:-1 tvg-id="CytavisionSports5.cy" tvg-name="CY: CYTAVISION SPORT 5 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 5 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842680
+
+#EXTINF:-1 tvg-id="CytavisionSports6.cy" tvg-name="CY: CYTAVISION SPORT 6 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 6 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842679
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT 7 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 7 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842678
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT 8 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT 8 ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/1118017
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT PREMIERE LEAGUE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3979.jpg?56008" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT PREMIERE LEAGUE ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842685
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: CYTAVISION SPORT ᵁᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10043.jpg?97125" group-title="CY| CYTAVISION VIP",CY: CYTAVISION SPORT ᵁᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/842677
+
+#EXTINF:-1 tvg-id="" tvg-name="CY: OMONOIA TV ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13555.jpg?47738" group-title="CY| CYTAVISION VIP",CY: OMONOIA TV ᴴᴰ
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/892095
+
+#EXTINF:-1 tvg-id="" tvg-name="###### ΚΥΠΡΙΑΚΑ/CYPRUS ######" tvg-logo="" group-title="CY| ΚΥΠΡΙΑΚΑ/CYPRUS",###### ΚΥΠΡΙΑΚΑ/CYPRUS ######
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/460781
+
+#EXTINF:-1 tvg-id="ERTWorld.gr" tvg-name="CY: ERT WORLD (NA)" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ERT-WORLD.png" group-title="CY| ΚΥΠΡΙΑΚΑ/CYPRUS",CY: ERT WORLD (NA)
+http://cf.hi-ott.me:80/iptvoreb6f035/568250d23c/460778
+
+#EXTINF:-1 tvg-id="Ant1.cy" tvg-name="CY: ANT1 ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/logos/ANT1-.png" group-title="CY| ΚΥΠΡΙΑΚΑ/CYPRUS",CY: ANT1 ◉
